@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dashboard of the month
-permalink: /dashboard/
+permalink: /getting-started/
 ---
 
 ### On this page you will find the bashboard of the month
