@@ -6,6 +6,6 @@ permalink: /getting-started/
 
 ### On this page you will find the bashboard of the month
 
-<iframe src="/assets/choropleth_map.html" width="100%" height="600px"></iframe>
+<iframe src="/gh_pages/assets/choropleth_map.html" width="100%" height="600px"></iframe>
 
 
